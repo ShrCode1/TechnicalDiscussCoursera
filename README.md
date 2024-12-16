@@ -14,3 +14,5 @@ This is the [notebook](https://github.com/ShrCode1/TechnicalDiscussCoursera/blob
 
 ### Image
 ![image](https://github.com/user-attachments/assets/bd0c2317-df83-435e-b51a-24954253024d)
+
+This contains python scaffold stuff.
