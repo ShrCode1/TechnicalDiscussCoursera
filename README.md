@@ -16,3 +16,5 @@ This is the [notebook](https://github.com/ShrCode1/TechnicalDiscussCoursera/blob
 ![image](https://github.com/user-attachments/assets/bd0c2317-df83-435e-b51a-24954253024d)
 
 This contains python scaffold stuff.
+
+[![Python application test with Github Actions](https://github.com/ShrCode1/TechnicalDiscussCoursera/actions/workflows/main.yml/badge.svg)](https://github.com/ShrCode1/TechnicalDiscussCoursera/actions/workflows/main.yml)
