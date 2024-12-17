@@ -10,8 +10,8 @@ format:
 	black *.py
 
 lint: 
-	/home/shrey/.local/bin/pylint --disable=R,C hello.py
-	# pylint --disable=R,C hello.py
+	# /home/shrey/.local/bin/pylint --disable=R,C hello.py
+	pylint --disable=R,C hello.py
 
 test:
 	python -m pytest -vv --cov=hello test_hello.py
